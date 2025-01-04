@@ -2,12 +2,12 @@
 
 A simple and versatile **Hash Generator** tool built with Python that allows you to generate cryptographic hash values. This project is designed for anyone interested in learning about cryptographic hash functions, how they work, and how to implement them.
 
-# This project will implement advanced hashing techniques, including:
-# 1. Cryptographic Hashing
-# 2. Incremental Hashing (for streaming data)
-# 3. Progressive Hashing with modular design
-# 4. Salting and Keyed Hash Functions for security
-# 5. Advanced Techniques: PBKDF2, bcrypt, scrypt, Argon2, SHA3-512, and Blake2b
+This project will implement advanced hashing techniques, including:
+- 1. Cryptographic Hashing
+- 2. Incremental Hashing (for streaming data)
+- 3. Progressive Hashing with modular design
+- 4. Salting and Keyed Hash Functions for security
+- 5. Advanced Techniques: PBKDF2, bcrypt, scrypt, Argon2, SHA3-512, and Blake2b
 
 You can either run this project directly in **Google Colab** or download the Jupyter notebook and execute it on your local machine.
 
